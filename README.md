@@ -1,5 +1,5 @@
 # Hello 👋, I am Kushal!!!
-**A ML Enthusiast || Quantum ML (QML) || Videographer**
+**A ML Enthusiast | Quantum ML (QML) | Videographer**
 
 ✉️ For collaborations, projects, or any other inquiries, feel free to reach out at kurkurekushalofficial@gmail.com 😊.
 
