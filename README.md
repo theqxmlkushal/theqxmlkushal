@@ -84,17 +84,9 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theqxmlkushal&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-trophies.vercel.app/?username=theqxmlkushal&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
-
----
 
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
 <br/><br/>
-
-<img src="https://visitcount.itsvg.in/api?id=theqxmlkushal&label=Profile+Views&color=6&icon=5&pretty=true"/>
-
-</div>
