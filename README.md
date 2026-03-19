@@ -1,90 +1,57 @@
-<!-- ANIMATED HEADER — file: header.svg must be in root of this repo -->
-<p align="center">
-  <img src="header.svg" width="100%" alt="Kushal Kurkure"/>
-</p>
+<div align="center">
 
-<!-- TYPING SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=⚛️+Quantum+Machine+Learning+Researcher;🚀+Building+AI+at+the+edge+of+physics;🔬+Where+qubits+meet+deep+learning;🌌+Collapsing+wavefunctions+into+models;💡+Turning+quantum+noise+into+intelligence" alt="Typing SVG"/>
-</p>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<!-- JUMPING CATS -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="80" alt="jumping cat"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="80" alt="cat typing"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="80" alt="jumping cat"/>
-</p>
+# Hi, I'm Kushal 👋
 
-<br/>
+**ML Enthusiast &nbsp;·&nbsp; Quantum ML (QML) &nbsp;·&nbsp; Videographer**
 
-<!-- ABOUT ME -->
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310" alt="coding gif"/>
+[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/thequantbeing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushalkurkure)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kurkurekushalofficial@gmail.com)
 
-## 🧠 About Me
+</div>
 
-```python
-class Kushal:
-    pronouns   = "he / him"
-    location   = "India 🇮🇳"
-    focus      = ["Quantum ML", "Deep Learning",
-                  "Computer Vision"]
-    stack      = ["Python", "C++", "PyTorch", "Qiskit"]
-    currently  = "Collapsing wavefunctions into models 🌊"
-    fun_fact   = "I debug circuits AND neural nets ⚡"
-    dm_open    = True  # always!
-```
+---
 
-<br/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
 
-📬 **Reach me at:** [kurkurekushalofficial@gmail.com](mailto:kurkurekushalofficial@gmail.com)
+### 🚀 About Me
+
+- 🔭 Working on **Quantum Machine Learning** models
+- 🧠 Exploring intersections of **physics & AI**
+- 📸 Also a **Videographer** in my off hours
+- 💬 Ask me about **QML, Deep Learning, Computer Vision**
+- 📬 Reach me at **kurkurekushalofficial@gmail.com**
+- ⚡ Fun fact: I debug both **circuits** and **neural nets**
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://x.com/thequantbeing">
-    <img src="https://img.shields.io/badge/X-%40thequantbeing-black?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kurkurekushalofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/kushalkurkure">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚡ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks & Cloud**
 
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-**ML / Data**
+**ML / Data Science**
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -100,36 +67,34 @@ class Kushal:
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theqxmlkushal&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theqxmlkushal&theme=great-gatsby&hide_border=false&layout=compact" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=theqxmlkushal&theme=great-gatsby&hide_border=false" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=theqxmlkushal&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theqxmlkushal&theme=great-gatsby&hide_border=true&layout=compact" height="170"/>
 
----
+<img src="https://streak-stats.demolab.com?user=theqxmlkushal&theme=great-gatsby&hide_border=true"/>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theqxmlkushal&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+### 🏆 Trophies
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:7b2fff,100:00f7ff&height=110&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theqxmlkushal&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=theqxmlkushal&label=Profile+Views&color=6&icon=5&pretty=true"/>
-</p>
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<br/><br/>
+
+<img src="https://visitcount.itsvg.in/api?id=theqxmlkushal&label=Profile+Views&color=6&icon=5&pretty=true"/>
+
+</div>
