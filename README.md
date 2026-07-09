@@ -21,7 +21,6 @@
 - 🔭 Working on **Quantum Machine Learning** models
 - 🧠 Exploring intersections of **physics & AI**
 - 📸 Also a **Videographer** in my off hours
-- 💬 Ask me about **QML, Deep Learning, Computer Vision**
 - 📬 Reach me at **kurkurekushalofficial@gmail.com**
 - ⚡ Fun fact: I debug both **circuits** and **neural nets**
 
